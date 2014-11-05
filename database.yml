@@ -1,0 +1,6 @@
+adapter: postgresql
+database:  finance-api
+pool: 25
+username: marloncarvalho
+password:
+host: localhost
